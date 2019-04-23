@@ -1,0 +1,7 @@
+
+*.png
+/*.cache
+/Color Highlighter
+*.crt
+*.last-run
+*.*-ca-bundle
