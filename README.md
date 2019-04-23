@@ -2,11 +2,14 @@ Configuración de Sublime Text 3
 ======
 > * Respaldar las preferencias y plugins de la siguiente ubicación 
 ```%appdata%\Sublime Text 3\Packages\User```
+
 Nombre del archivo | Descripción
 ------------- |-------------
-Preferences.sublime-settings | Las preferencias de Sublime Text, puede incluir: el tema (theme), color scheme, tamaño de la fuente, etc…
-Package Control.sublime-settings | Las configuraciones del Package Control (los paquetes ó plugins instalados).
 Default (Windows).sublime-keymap | Los atajos del teclado que hayas personalizado.
+Package Control.sublime-settings | Las configuraciones del Package Control (los paquetes ó plugins instalados).
+Side Bar.sublime-settings | Las configuraciones del plugin Side Bar.
+Preferences.sublime-settings | Las preferencias de Sublime Text, puede incluir: el tema (theme), color scheme, tamaño de la fuente, etc…
+Projects/ | Las configuraciones del plugin Project Manager.
 
 > * Comprobar que tenemos instalado el Package control (ctrl+shift+p), sino es así instalarlo desde esta [pagina](https://packagecontrol.io/installation).
 > * Reemplaza los archivos que respaldaste.
