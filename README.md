@@ -21,6 +21,9 @@ Projects/ | Las configuraciones del plugin Project Manager.
 
 
 
+
+
+
 ## Paquetes Instalados
 
 ### A File Icon
