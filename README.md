@@ -1,3 +1,4 @@
+![alt text][logo]
 Configuración de Sublime Text 3
 ======
 * Respaldar las preferencias y plugins de la siguiente ubicación 
@@ -15,7 +16,7 @@ Projects/ | Las configuraciones del plugin Project Manager.
 * Reemplaza los archivos que respaldaste.
 * Ejecuta el Sublime Text y esté comenzará a descargar de nuevo los paquetes que tenias instalados.
 
-**¡Disfruta de Sublime Text!**
+:+1: **¡Disfruta de Sublime Text!**
 
 
 
@@ -66,4 +67,4 @@ Projects/ | Las configuraciones del plugin Project Manager.
 ### VBScript
 
 
-[logo]:https://www.sublimehq.com/images/sublime_text.png "Sublime Text"
+[logo]:https://pcfiledownload.com/wp-content/uploads/2018/09/Sublime-Text-logo-100x100.png "Sublime Text"
