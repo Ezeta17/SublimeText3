@@ -67,4 +67,4 @@ Projects/ | Las configuraciones del plugin Project Manager.
 ### VBScript
 
 
-[logo]:https://pcfiledownload.com/wp-content/uploads/2018/09/Sublime-Text-logo-100x100.png "Sublime Text"
+[logo]:https://www.file-extension.info/images/resource/64/sublime-text.png "Sublime Text"
