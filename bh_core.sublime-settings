@@ -1,0 +1,15 @@
+{
+// Experimental: crea una barra visible al principio de todas las líneas entre 
+// intervalos de soporte multilínea. 
+"content_highlight_bar" : true,
+
+// Habilitar alta visibilidad de forma predeterminada cuando se inicie sublime 
+"high_visibility_enabled_by_default" :  true,
+
+// Estilo y color de alta visibilidad para el modo de alta visibilidad 
+//solid, outline, underline, thin_underline, squiggly, y stippled.
+"high_visibility_style" :  "squiggly",
+
+// Experimental: Alinee la barra de selección de contenido en el nivel de sangría del corchete 
+"align_content_highlight_bar" :  false ,
+}
